@@ -1,5 +1,6 @@
 #!name=Pillow
 #!desc=Pillow Premium
+#!url=https://raw.githubusercontent.com/ryanyux/shadowrocket-module/main/modules/pillow.module
 
 [MITM]
 hostname = %APPEND% api.revenuecat.com
